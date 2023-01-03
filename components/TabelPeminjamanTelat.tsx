@@ -1,10 +1,10 @@
 // Tabel Peminjaman (Telat)
 export default function () {
-  let data = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+  let data = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
   return (
     <table className="table table-hover align-middle">
-      <thead className="table-primary sticky-top">
+      <thead className="table-secondary sticky-top">
         <tr>
           <th>#</th>
           <th>Kode Buku</th>

@@ -4,7 +4,7 @@ export default function () {
 
   return (
     <table className="table table-hover align-middle">
-      <thead className="table-primary sticky-top">
+      <thead className="table-secondary sticky-top">
         <tr>
           <th>ID Kategori</th>
           <th>Nama</th>
