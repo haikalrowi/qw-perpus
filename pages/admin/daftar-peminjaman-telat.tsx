@@ -13,7 +13,7 @@ export default function () {
           <div className="flex-fill" style={{ overflowY: 'scroll' }}>
             <TabelPeminjamanTelat />
             <div className="d-flex flex-row gap-2 bg-body"
-              style={{ position: 'sticky', bottom: 0, padding: '.5rem' }}>
+              style={{ position: 'sticky', bottom: 0, minWidth: 'max-content', padding: '.5rem' }}>
               <div className="flex-fill">
                 <form className="d-flex flex-row gap-1" style={{ maxWidth: '16rem' }}>
                   <input className="form-control" type="search" name="q" placeholder="Cari Kode Buku..." />

@@ -13,7 +13,7 @@ export default function () {
   }, [])
 
   return (
-    <div>
+    <>
       <h2 className="text-center">Dashboard</h2>
       <hr />
       <nav className="nav nav-pills flex-column">
@@ -60,6 +60,6 @@ export default function () {
           Panduan
         </Link>
       </nav>
-    </div>
+    </>
   )
 }
