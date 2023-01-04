@@ -1,5 +1,5 @@
-import TabelKategori from "../../components/TabelKategori";
 import AdminVerticalNavbar from "../../components/AdminVerticalNavbar";
+import TabelKategori from "../../components/TabelKategori";
 
 export default function () {
   return (

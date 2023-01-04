@@ -1,5 +1,5 @@
-import TabelBuku from "../../components/TabelBuku";
 import AdminVerticalNavbar from "../../components/AdminVerticalNavbar";
+import TabelBuku from "../../components/TabelBuku";
 
 export default function () {
   return (

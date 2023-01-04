@@ -1,5 +1,5 @@
-import TabelRequest from "../../components/TabelRequest";
 import AdminVerticalNavbar from "../../components/AdminVerticalNavbar";
+import TabelRequest from "../../components/TabelRequest";
 
 export default function () {
   return (

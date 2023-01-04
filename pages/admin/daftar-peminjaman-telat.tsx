@@ -1,5 +1,5 @@
-import TabelPeminjamanTelat from "../../components/TabelPeminjamanTelat";
 import AdminVerticalNavbar from "../../components/AdminVerticalNavbar";
+import TabelPeminjamanTelat from "../../components/TabelPeminjamanTelat";
 
 export default function () {
   return (
